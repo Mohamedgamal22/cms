@@ -1,0 +1,99 @@
+.img-centered {
+    margin: 0 auto;
+}
+
+.navbar{
+
+    	border-bottom: 5px solid #d57950;
+	    background: #f28858;
+	    margin-bottom: 0;
+}
+.span{
+	color: #fff;
+	font-weight: bold;
+}
+.carousel-inner img{
+	width: 100%;
+}
+.takeTour{
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+.carousel-caption h1{
+	color:#f28858;
+	font-weight: bold;
+}
+
+.thumbnaill{
+     border-radius: 50%;
+    border:5px solid #f28858;
+    width: 273px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.img-center{
+	    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.thumbnaill img{
+    padding: 50px;
+}
+.team-member img{
+
+    padding: 20px;
+}
+.team-member{
+		 display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border:5px solid #f28858;
+}
+.glyphicon{
+	margin-top: 100px;
+}
+.prev{
+	float: left;
+}
+.next{
+	float: right;
+}
+
+.col-xs-one,
+.col-sm-one,
+.col-md-one,
+.col-lg-one {
+    width: 10%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-5-8,
+.col-sm-5-8,
+.col-md-5-8,
+.col-lg-5-8 {
+	width: 26.66666667%;
+	float: left;
+	position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+.img_icon img{
+	width: 100%;
+}
+.bs-example{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+footer{
+		border-top: 5px solid #d57950;
+	    background: #f28858;
+	    padding: 10px;
+}
